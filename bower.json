@@ -1,0 +1,14 @@
+{
+  "name": "live",
+  "description": "",
+  "main": "",
+  "authors": [
+    "SERHAT PEKEDİS <serhatpekedis@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mostonque/live",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "semantic": "^2.4.1"
+  }
+}
